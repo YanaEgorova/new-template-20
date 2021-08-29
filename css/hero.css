@@ -1,0 +1,13 @@
+.hero__wrapper {
+    position: relative;
+}
+.hero {
+    padding: 20rem 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    position: relative;
+}
+@media screen and (min-width: 1024px) {
+  
+}
