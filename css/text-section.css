@@ -28,6 +28,9 @@
 .text-section .link {
    color: var(--link-color);
    position: relative;
+   font-size: inherit;
+   font-weight: inherit;
+   font-family: inherit;
 }
 .text-section .link:after {
     background: none repeat scroll 0 0 transparent;

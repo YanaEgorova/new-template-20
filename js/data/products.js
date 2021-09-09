@@ -234,7 +234,7 @@ export const products = [
     },
     {
         id: 'product-10',
-        name: '',
+        name: 'Pregnancy Pillows',
         price: 89.99,
         discount: 109.91,
         image: './img/img4.png',
@@ -259,7 +259,7 @@ export const products = [
     },
     {
         id: 'product-11',
-        name: '',
+        name: 'Dryer Brush',
         price: 119.98,
         discount: 110.89,
         image: './img/img5.png',
